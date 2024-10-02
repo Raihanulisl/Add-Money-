@@ -1,0 +1,24 @@
+
+.gonto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.body{
+   display: flex;
+   justify-items: center;
+   
+  
+}
+.border{
+    border-color: aquamarine;
+    background-color: beige;
+}
+.money{
+    align-items: ;
+}
+.border{
+  width: 350px;
+  height: 600px;
+}
